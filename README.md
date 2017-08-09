@@ -9,3 +9,4 @@ a.	Assignees: Click on the grey “tool wheel” to assign your feedback to the 
 b.	Labels: Click on the grey “tool wheel” to label your feedback as a “bug”, “general feedback” or a “question”. If you’re not sure how to label it, select “general feedback”.
 c.	Projects: Click on the grey “tool wheel”, then click on the repository tab and select “BA Platform” 
 d.	Finally, click the green button to “Submit new Issue”. Once submitted, the screen will show that you commented.
+https://github.com/ssimowski/BA-Platform-Feedback/issues/new
